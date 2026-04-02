@@ -17,12 +17,12 @@ const SITE_CONFIG = {
   heroSubtitle: "GNIT Kolkata | 2nd Year ECE | Ardent Computech Pvt. Ltd.",
 
   aboutPrimary:
-    "We are 2nd year ECE Engineering students from GNIT, Kolkata, who completed an intensive 10-day AI/ML training program at Ardent Computech Pvt. Ltd. with a strong focus on practical implementation.",
+    "We're pursuing ECE Engineering students from GNIT, Kolkata, who completed an intensive 10-day AI/ML training program at Ardent Computech Pvt. Ltd. with a strong focus on practical implementation.",
   aboutSecondary:
     "Across the training journey, we moved from fundamentals to guided project execution, practiced 60 MCQs, explored essential tools, and built confidence to pursue AI-focused careers with a portfolio-first mindset.",
 
   trainerLine:
-    "Mentored students through AI, Machine Learning, and full-stack project workflows with a practical, industry-oriented approach focused on clarity, consistency, and real implementation.",
+    "Being Mentored students through AI, Machine Learning, and full-stack project workflows with a practical, industry-oriented approach focused on clarity, consistency, and real implementation.",
 
   footerSocialLinks: [
     {
@@ -46,7 +46,7 @@ const SITE_CONFIG = {
 // Easy placeholders for student names + links
 const STUDENTS = [
   {
-    name: "Student Name 1",
+    name: "Samrat Sinha",
     image: "",
     department: "ECE",
     year: "2nd Year",
@@ -56,7 +56,7 @@ const STUDENTS = [
     cv: "https://drive.google.com/"
   },
   {
-    name: "Student Name 2",
+    name: "Souhardya Bose",
     image: "",
     department: "ECE",
     year: "2nd Year",
@@ -66,7 +66,7 @@ const STUDENTS = [
     cv: "https://drive.google.com/"
   },
   {
-    name: "Student Name 3",
+    name: "Sudipto Mondal",
     image: "",
     department: "ECE",
     year: "2nd Year",
