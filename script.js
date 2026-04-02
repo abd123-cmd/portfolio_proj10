@@ -12,9 +12,9 @@ const SITE_CONFIG = {
   mcqsPracticed: 60,
   toolsExplored: 13,
 
-  heroTitle: "AI/ML Student Portfolio",
+  heroTitle: "Souhardya's Portfolio",
   heroBadge: "10 Days AI/ML Training Completed",
-  heroSubtitle: "GNIT Kolkata | 2nd Year ECE | Ardent Computech Pvt. Ltd.",
+  heroSubtitle: "GNIT Kolkata | 2nd Year ECE | Guided by Ardent Computech Pvt. Ltd.",
 
   aboutPrimary:
     "We're pursuing ECE Engineering students from GNIT, Kolkata, who completed an intensive 10-day AI/ML training program at Ardent Computech Pvt. Ltd. with a strong focus on practical implementation.",
