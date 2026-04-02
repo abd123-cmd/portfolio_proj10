@@ -22,7 +22,7 @@ const SITE_CONFIG = {
     "Across the training journey, we moved from fundamentals to guided project execution, practiced 60 MCQs, explored essential tools, and built confidence to pursue AI-focused careers with a portfolio-first mindset.",
 
   trainerLine:
-    "Being Mentored students through AI, Machine Learning, and full-stack project workflows with a practical, industry-oriented approach focused on clarity, consistency, and real implementation.",
+    "Mentored students through AI, Machine Learning, and full-stack project workflows with a practical, industry-oriented approach focused on clarity, consistency, and real implementation.",
 
   footerSocialLinks: [
     {
