@@ -51,8 +51,8 @@ const STUDENTS = [
     department: "ECE",
     year: "2nd Year",
     bio: "Focused on practical Python workflows and data-driven project development with a growing interest in ML engineering.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
+    github: "https://github.com/Samrat648",
+    linkedin: "https://www.linkedin.com/in/samratsinha497/",
     cv: "https://drive.google.com/"
   },
   {
@@ -61,8 +61,8 @@ const STUDENTS = [
     department: "ECE",
     year: "2nd Year",
     bio: "Built strong fundamentals in NumPy, Pandas, and model basics while exploring automation and applied AI use cases.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
+    github: "https://github.com/abd123-cmd",
+    linkedin: "https://www.linkedin.com/in/souhardya-bose-87b807307/"
     cv: "https://drive.google.com/"
   },
   {
@@ -71,8 +71,8 @@ const STUDENTS = [
     department: "ECE",
     year: "2nd Year",
     bio: "Interested in computer vision and intelligent systems, with a project-first learning approach and clean coding practice.",
-    github: "https://github.com/",
-    linkedin: "https://www.linkedin.com/",
+    github: "https://github.com/sudipto-mondal-05",
+    linkedin: "https://www.linkedin.com/in/sudipto-mondal-2005s/",
     cv: "https://drive.google.com/"
   }
 ];
